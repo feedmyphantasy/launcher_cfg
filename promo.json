@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "chats": [
+    {
+      "id": "tadcchat",
+      "name": "TADC Chat",
+      "url": "https://t.me/TADCchat",
+      "icon": "chat-tadcchat",
+      "visible": true
+    },
+    {
+      "id": "bwsw1",
+      "name": "BWSW",
+      "url": "https://t.me/bwsw1",
+      "icon": "chat-bwsw1",
+      "visible": true
+    }
+  ]
+}
